@@ -1,12 +1,12 @@
 {
-  "name": "tesla",
+  "name": "portfolio",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
-    "vercel-build": "echo 'Building Tesla project...'"
+    "vercel-build": "echo 'Building portfolio project...'"
   },
   "author": "",
   "license": "ISC",
